@@ -1,1 +1,1 @@
-User.create(email: 'admin@techlist.angers.io', password: 'password', admin: true)
+User.create(email: 'admin@techlist.saint-etienne.io', password: 'password', admin: true)
