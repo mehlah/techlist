@@ -21,7 +21,7 @@
       color: $dark-gray;
 
       .extension {
-        color: $red;
+        color: $green;
       }
     }
   }
@@ -42,7 +42,7 @@
 
     @include media($medium-screen) {
       &.cta a {
-        background-color: lighten($red, 33%);
+        background-color: lighten($green, 53%);
         border-radius: $base-border-radius;
         padding: $small-spacing;
 
